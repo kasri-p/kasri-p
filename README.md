@@ -9,8 +9,8 @@
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,bash,rust,python,r,gradle,linux,vscode,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=libgdx,github,sqlite,idea" />
+  <img src="https://skillicons.dev/icons?i=java,c,bash,rust,python,r,gradle,linux,git,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=libgdx,github,sqlite" />
 </div>
 
 ---
