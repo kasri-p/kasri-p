@@ -9,8 +9,8 @@
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,bash,rust,python,r,gradle,linux,git,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=libgdx,github,sqlite" />
+  <img src="https://skillicons.dev/icons?i=java,c,bash,rust,python,r,gradle,git,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=libgdx,github" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
 ## 📫 Contact Me
 
 <div align="center"> 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kasra.sh1385@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
