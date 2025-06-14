@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kasri-p.kasri-p" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Kasri-P!;Game+Dev+%7C+AI+%7C+Sharif+CE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Hi+There!+👋" alt="Typing SVG" />
 </h1>
 
 ---
@@ -22,14 +22,6 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kasri-p&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
   <br/><br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasri-p&layout=compact&theme=dark&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kasri-p/kasri-p/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
