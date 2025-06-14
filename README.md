@@ -1,9 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kasri-p.kasri-p" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Hi+There!+👋" alt="Typing SVG" />
-</h1>
-
 ---
 
 ## ⚙️ Tech Stack
